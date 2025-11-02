@@ -1,0 +1,25 @@
+DailyTally Application Privacy Policy
+Effective Date: October 1, 2025
+This Privacy Policy explains how Crafttech ("we," "us," or "our") handles your information when you use the DailyTally mobile application (the "App").
+1. Data Collection and Usage
+The DailyTally App is designed as a local, device-based application. We prioritize your privacy by ensuring that we do not collect any Personally Identifiable Information (PII) from you.
+Information Handled:
+Local Application Data: All financial data you enter—including customer tallies, cashbox entries, stock records, and notes—is stored only on your device's local storage. Crafttech does not have access to this data.
+No PII Collected by Developer: We do not automatically collect or transmit any personal information such as your name, email address, phone number, or geolocation data to our servers.
+2. Google Drive Integration (Backup and Restore)
+DailyTally offers an optional feature to back up and restore your app data using your personal Google Drive account. This functionality is the only time the app interacts with external services.
+How We Use Google Drive Data:
+Purpose: To securely save encrypted backups of your DailyTally local data files, allowing you to restore your financial history if you change devices or reinstall the App.
+Data Accessed: We only access the specific data file created and labeled by the DailyTally App within your Google Drive.
+Scope: The access is strictly limited to the necessary files within the dedicated DailyTally application folder. We do not access, view, or modify any other files in your Google Drive.
+Sharing: The backup data stored in your Google Drive is not shared with Crafttech or any third parties.
+3. Data Security and Retention
+Since your data is primarily stored locally, its security depends on your device's security measures. We implement industry-standard practices within the App to protect data both locally and during secure transfer to Google Drive.
+Data Retention: You control your data. Since data is local, it is retained until you manually delete the App or its data from your device. Backup data is retained in your Google Drive until you manually delete the backup file there.
+4. Children's Privacy
+The DailyTally App is not intended for use by children under the age of 18. We do not knowingly collect personal information from children.
+5. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy within the App or on our website.
+6. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us:
+Crafttech Email: 📧 kitchenofwebsolutions@gmail.com
